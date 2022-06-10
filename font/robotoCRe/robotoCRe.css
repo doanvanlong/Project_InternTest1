@@ -1,0 +1,10 @@
+@font-face {
+	font-family: "robotoCRe";
+	src: url("RobotoCondensed-Regular.eot");
+	src: url("RobotoCondensed-Regular.eot#iefix") format("embedded-opentype"),
+	url("RobotoCondensed-Regular.woff") format("woff"),
+	url("RobotoCondensed-Regular.ttf") format("truetype"),
+	url("RobotoCondensed-Regular.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
